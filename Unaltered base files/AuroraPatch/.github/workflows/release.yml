@@ -1,0 +1,84 @@
+name: Release
+
+on:
+
+  workflow_dispatch:
+  
+    branches:
+    
+    - master
+
+  push:
+  
+    branches:
+    
+    - master
+        
+jobs:
+
+  release:
+  
+    runs-on: windows-latest
+     
+    steps:
+    
+    - uses: actions/checkout@v2
+    
+    - name: Setup MSBuild.exe
+      uses: microsoft/setup-msbuild@v1.0.2
+      
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v1.0.5
+      env:
+        ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
+                  
+    - name: Restore Packages
+      run: nuget restore AuroraPatch.sln
+      
+    - name: Build AuroraPatch
+      run: msbuild AuroraPatch /p:Configuration=Release
+      
+    - name: Build Lib
+      run: msbuild Lib /p:Configuration=Release
+      
+    - name: Include Lib in AuroraPatch
+      run: xcopy Lib\bin\Release AuroraPatch\bin\Release\Patches\Lib\ /E
+      
+    - name: Delete previous dev release
+      if: ${{ github.event_name != 'workflow_dispatch' }}
+      uses: dev-drprasad/delete-tag-and-release@v0.2.0
+      with:
+        delete_release: true # default: false
+        tag_name: vdev-latest # tag name to delete
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+    - name: Set dev release
+      if: ${{ github.event_name != 'workflow_dispatch' }}
+      id: release_type
+      run: echo "::set-output name=version::dev-latest"
+      
+    - name: Bump release version
+      id: tag_version
+      uses: mathieudutour/github-tag-action@v5.3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        custom_tag: ${{ steps.release_type.outputs.version }}
+
+    - name: Zip AuroraPatch
+      uses: vimtor/action-zip@v1
+      with:
+        files: AuroraPatch/bin/Release/
+        recursive: true
+        dest: AuroraPatch-${{ steps.tag_version.outputs.new_version }}.zip
+        
+    - name: Create release
+      uses: softprops/action-gh-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        prerelease: ${{ github.event_name != 'workflow_dispatch' }}
+        name: AuroraPatch ${{ steps.tag_version.outputs.new_version }} build ${{ github.run_number }}
+        tag_name: ${{ steps.tag_version.outputs.new_tag }}
+        body: ${{ steps.tag_version.outputs.changelog }}
+        files: AuroraPatch-${{ steps.tag_version.outputs.new_version }}.zip
