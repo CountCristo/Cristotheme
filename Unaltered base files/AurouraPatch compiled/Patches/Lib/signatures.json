@@ -1,0 +1,746 @@
+[
+  {
+    "Name": "TacticalMapForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Int32": -5,
+      "Boolean": -7,
+      "DateTime": -9,
+      "Double": -8,
+      "FlowLayoutPanel": 5,
+      "Button": 56,
+      "ComboBox": -7,
+      "TabControl": -9,
+      "TabPage": 1,
+      "CheckBox": 58,
+      "Label": -1,
+      "ListBox": -7,
+      "TreeView": -6,
+      "TextBox": -9,
+      "ListView": -6,
+      "ColumnHeader": 0,
+      "Point": -9
+    },
+    "MaxFieldTypes": {
+      "Int32": 15,
+      "Boolean": 13,
+      "DateTime": 11,
+      "Double": 12,
+      "FlowLayoutPanel": 25,
+      "Button": 76,
+      "ComboBox": 13,
+      "TabControl": 11,
+      "TabPage": 21,
+      "CheckBox": 78,
+      "Label": 19,
+      "ListBox": 13,
+      "TreeView": 14,
+      "TextBox": 11,
+      "ListView": 14,
+      "ColumnHeader": 20,
+      "Point": 11
+    }
+  },
+  {
+    "Name": "EconomicsForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -8,
+      "ComboBox": 10,
+      "TreeView": -8,
+      "TabControl": -9,
+      "TabPage": 4,
+      "CheckBox": 2,
+      "ListView": 19,
+      "ColumnHeader": 132,
+      "FlowLayoutPanel": 15,
+      "Label": 63,
+      "TextBox": 6,
+      "Button": 63,
+      "ListBox": -9,
+      "Panel": -3,
+      "Timer": -9,
+      "RadioButton": 5,
+      "Point": -9,
+      "Int32": -9
+    },
+    "MaxFieldTypes": {
+      "Boolean": 12,
+      "ComboBox": 30,
+      "TreeView": 12,
+      "TabControl": 11,
+      "TabPage": 24,
+      "CheckBox": 22,
+      "ListView": 39,
+      "ColumnHeader": 152,
+      "FlowLayoutPanel": 35,
+      "Label": 83,
+      "TextBox": 26,
+      "Button": 83,
+      "ListBox": 11,
+      "Panel": 17,
+      "Timer": 11,
+      "RadioButton": 25,
+      "Point": 11,
+      "Int32": 11
+    }
+  },
+  {
+    "Name": "GameState",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Int32": 93,
+      "Color": -8,
+      "Boolean": 5,
+      "Decimal": -1,
+      "String": 0,
+      "Double": -2,
+      "CheckState": -7,
+      "Object": -9
+    },
+    "MaxFieldTypes": {
+      "Int32": 113,
+      "Color": 12,
+      "Boolean": 25,
+      "Decimal": 19,
+      "String": 20,
+      "Double": 18,
+      "CheckState": 13,
+      "Object": 11
+    }
+  },
+  {
+    "Name": "ClassDesignForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "TreeNode": -8,
+      "Boolean": -7,
+      "TabControl": -9,
+      "TabPage": -4,
+      "CheckBox": 8,
+      "TreeView": -7,
+      "ComboBox": -4,
+      "FlowLayoutPanel": 8,
+      "Label": 13,
+      "TextBox": 9,
+      "Button": 27,
+      "RadioButton": 0,
+      "ListBox": -7,
+      "ListView": -5,
+      "ColumnHeader": 33,
+      "Panel": 1,
+      "Point": -9,
+      "Int32": -9
+    },
+    "MaxFieldTypes": {
+      "TreeNode": 12,
+      "Boolean": 13,
+      "TabControl": 11,
+      "TabPage": 16,
+      "CheckBox": 28,
+      "TreeView": 13,
+      "ComboBox": 16,
+      "FlowLayoutPanel": 28,
+      "Label": 33,
+      "TextBox": 29,
+      "Button": 47,
+      "RadioButton": 20,
+      "ListBox": 13,
+      "ListView": 15,
+      "ColumnHeader": 53,
+      "Panel": 21,
+      "Point": 11,
+      "Int32": 11
+    }
+  },
+  {
+    "Name": "CreateProjectForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -1,
+      "ComboBox": 7,
+      "FlowLayoutPanel": 1,
+      "Label": 0,
+      "Button": 4,
+      "TextBox": 2,
+      "CheckBox": -1,
+      "Point": -2,
+      "Int32": -2
+    },
+    "MaxFieldTypes": {
+      "Boolean": 5,
+      "ComboBox": 13,
+      "FlowLayoutPanel": 7,
+      "Label": 6,
+      "Button": 10,
+      "TextBox": 8,
+      "CheckBox": 5,
+      "Point": 4,
+      "Int32": 4
+    }
+  },
+  {
+    "Name": "FleetWindowForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -8,
+      "ComboBox": -4,
+      "TreeView": -3,
+      "Button": 67,
+      "ListView": 23,
+      "ColumnHeader": 118,
+      "TabControl": -7,
+      "TabPage": 14,
+      "Label": 14,
+      "TextBox": 6,
+      "FlowLayoutPanel": 16,
+      "CheckBox": 42,
+      "RadioButton": -3,
+      "Panel": -7,
+      "ListBox": -8,
+      "Point": -9,
+      "Int32": -9
+    },
+    "MaxFieldTypes": {
+      "Boolean": 12,
+      "ComboBox": 16,
+      "TreeView": 17,
+      "Button": 87,
+      "ListView": 43,
+      "ColumnHeader": 138,
+      "TabControl": 13,
+      "TabPage": 34,
+      "Label": 34,
+      "TextBox": 26,
+      "FlowLayoutPanel": 36,
+      "CheckBox": 62,
+      "RadioButton": 17,
+      "Panel": 13,
+      "ListBox": 12,
+      "Point": 11,
+      "Int32": 11
+    }
+  },
+  {
+    "Name": "MissileDesignForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -8,
+      "ComboBox": -5,
+      "FlowLayoutPanel": 4,
+      "TextBox": 4,
+      "Label": 44,
+      "CheckBox": -2,
+      "ListView": -9,
+      "ColumnHeader": -8,
+      "Button": -7,
+      "Point": -9,
+      "Int32": -9
+    },
+    "MaxFieldTypes": {
+      "Boolean": 12,
+      "ComboBox": 15,
+      "FlowLayoutPanel": 24,
+      "TextBox": 24,
+      "Label": 64,
+      "CheckBox": 18,
+      "ListView": 11,
+      "ColumnHeader": 12,
+      "Button": 13,
+      "Point": 11,
+      "Int32": 11
+    }
+  },
+  {
+    "Name": "TurretDesignForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Int32": -1,
+      "Boolean": -2,
+      "ComboBox": -1,
+      "FlowLayoutPanel": 5,
+      "Label": 7,
+      "TextBox": 12,
+      "RadioButton": 1,
+      "Button": 1,
+      "CheckBox": -2,
+      "Point": -2
+    },
+    "MaxFieldTypes": {
+      "Int32": 5,
+      "Boolean": 4,
+      "ComboBox": 5,
+      "FlowLayoutPanel": 11,
+      "Label": 13,
+      "TextBox": 18,
+      "RadioButton": 7,
+      "Button": 7,
+      "CheckBox": 4,
+      "Point": 4
+    }
+  },
+  {
+    "Name": "GroundUnitDesignForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -9,
+      "ComboBox": -4,
+      "Label": -1,
+      "TextBox": 6,
+      "TabPage": -5,
+      "FlowLayoutPanel": -1,
+      "Button": 24,
+      "TreeView": -7,
+      "ListView": 0,
+      "ColumnHeader": 65,
+      "CheckBox": 4,
+      "Panel": -9,
+      "TabControl": -9,
+      "Point": -9,
+      "Int32": -9
+    },
+    "MaxFieldTypes": {
+      "Boolean": 11,
+      "ComboBox": 16,
+      "Label": 19,
+      "TextBox": 26,
+      "TabPage": 15,
+      "FlowLayoutPanel": 19,
+      "Button": 44,
+      "TreeView": 13,
+      "ListView": 20,
+      "ColumnHeader": 85,
+      "CheckBox": 24,
+      "Panel": 11,
+      "TabControl": 11,
+      "Point": 11,
+      "Int32": 11
+    }
+  },
+  {
+    "Name": "CommandersWindowForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -4,
+      "TreeView": -4,
+      "ComboBox": 4,
+      "Button": 12,
+      "FlowLayoutPanel": 0,
+      "ListView": 0,
+      "ColumnHeader": 11,
+      "Label": -1,
+      "CheckBox": 0,
+      "Panel": -4,
+      "Point": -4,
+      "Int32": -4
+    },
+    "MaxFieldTypes": {
+      "Boolean": 6,
+      "TreeView": 6,
+      "ComboBox": 14,
+      "Button": 22,
+      "FlowLayoutPanel": 10,
+      "ListView": 10,
+      "ColumnHeader": 21,
+      "Label": 9,
+      "CheckBox": 10,
+      "Panel": 6,
+      "Point": 6,
+      "Int32": 6
+    }
+  },
+  {
+    "Name": "MedalsForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "String": -1,
+      "Boolean": -1,
+      "ListView": 0,
+      "ColumnHeader": 9,
+      "ComboBox": 0,
+      "TabControl": -1,
+      "TabPage": 0,
+      "Button": 6,
+      "PictureBox": -1,
+      "Panel": -1,
+      "Label": 0,
+      "TextBox": 2,
+      "CheckBox": -1,
+      "FlowLayoutPanel": -1,
+      "ListBox": -1,
+      "Point": -1,
+      "Int32": -1
+    },
+    "MaxFieldTypes": {
+      "String": 3,
+      "Boolean": 3,
+      "ListView": 4,
+      "ColumnHeader": 13,
+      "ComboBox": 4,
+      "TabControl": 3,
+      "TabPage": 4,
+      "Button": 10,
+      "PictureBox": 3,
+      "Panel": 3,
+      "Label": 4,
+      "TextBox": 6,
+      "CheckBox": 3,
+      "FlowLayoutPanel": 3,
+      "ListBox": 3,
+      "Point": 3,
+      "Int32": 3
+    }
+  },
+  {
+    "Name": "RaceWindowForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -4,
+      "PictureBox": 0,
+      "FlowLayoutPanel": 2,
+      "Panel": 26,
+      "ComboBox": 1,
+      "Label": 26,
+      "TextBox": 20,
+      "Button": 5,
+      "ListView": 0,
+      "ColumnHeader": 5,
+      "TabControl": -4,
+      "TabPage": -2,
+      "Point": -4,
+      "Int32": -4
+    },
+    "MaxFieldTypes": {
+      "Boolean": 6,
+      "PictureBox": 10,
+      "FlowLayoutPanel": 12,
+      "Panel": 36,
+      "ComboBox": 11,
+      "Label": 36,
+      "TextBox": 30,
+      "Button": 15,
+      "ListView": 10,
+      "ColumnHeader": 15,
+      "TabControl": 6,
+      "TabPage": 8,
+      "Point": 6,
+      "Int32": 6
+    }
+  },
+  {
+    "Name": "SystemViewForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -7,
+      "ComboBox": -5,
+      "ListView": -5,
+      "ColumnHeader": 44,
+      "FlowLayoutPanel": 16,
+      "RadioButton": -1,
+      "Label": 40,
+      "Button": 31,
+      "CheckBox": 4,
+      "TextBox": 14,
+      "Point": -9,
+      "Int32": -9
+    },
+    "MaxFieldTypes": {
+      "Boolean": 13,
+      "ComboBox": 15,
+      "ListView": 15,
+      "ColumnHeader": 64,
+      "FlowLayoutPanel": 36,
+      "RadioButton": 19,
+      "Label": 60,
+      "Button": 51,
+      "CheckBox": 24,
+      "TextBox": 34,
+      "Point": 11,
+      "Int32": 11
+    }
+  },
+  {
+    "Name": "GalacticMapForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Int32": -1,
+      "Boolean": -6,
+      "ComboBox": -4,
+      "TabControl": -9,
+      "TabPage": -3,
+      "FlowLayoutPanel": 2,
+      "CheckBox": 34,
+      "Label": -4,
+      "TreeView": -8,
+      "Button": 35,
+      "ListView": -8,
+      "ColumnHeader": -5,
+      "Panel": -8,
+      "TextBox": -9,
+      "PictureBox": -8,
+      "Point": -9
+    },
+    "MaxFieldTypes": {
+      "Int32": 19,
+      "Boolean": 14,
+      "ComboBox": 16,
+      "TabControl": 11,
+      "TabPage": 17,
+      "FlowLayoutPanel": 22,
+      "CheckBox": 54,
+      "Label": 16,
+      "TreeView": 12,
+      "Button": 55,
+      "ListView": 12,
+      "ColumnHeader": 15,
+      "Panel": 12,
+      "TextBox": 11,
+      "PictureBox": 12,
+      "Point": 11
+    }
+  },
+  {
+    "Name": "RaceComparisonForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "ListView": 1,
+      "ColumnHeader": 1,
+      "Label": 1,
+      "Point": 1,
+      "Int32": 1
+    },
+    "MaxFieldTypes": {
+      "ListView": 1,
+      "ColumnHeader": 1,
+      "Label": 1,
+      "Point": 1,
+      "Int32": 1
+    }
+  },
+  {
+    "Name": "DiplomacyForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "TreeNode": -4,
+      "Boolean": -4,
+      "PictureBox": -1,
+      "ComboBox": -1,
+      "FlowLayoutPanel": 5,
+      "RadioButton": -1,
+      "Button": 15,
+      "ListView": 5,
+      "ColumnHeader": 21,
+      "CheckBox": 0,
+      "TextBox": -3,
+      "Label": 2,
+      "TabControl": -4,
+      "TabPage": 0,
+      "TreeView": -3,
+      "Point": -4,
+      "Int32": -4
+    },
+    "MaxFieldTypes": {
+      "TreeNode": 6,
+      "Boolean": 6,
+      "PictureBox": 9,
+      "ComboBox": 9,
+      "FlowLayoutPanel": 15,
+      "RadioButton": 9,
+      "Button": 25,
+      "ListView": 15,
+      "ColumnHeader": 31,
+      "CheckBox": 10,
+      "TextBox": 7,
+      "Label": 12,
+      "TabControl": 6,
+      "TabPage": 10,
+      "TreeView": 7,
+      "Point": 6,
+      "Int32": 6
+    }
+  },
+  {
+    "Name": "TechnologyViewForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -1,
+      "ComboBox": 0,
+      "FlowLayoutPanel": 0,
+      "CheckBox": 1,
+      "ListView": -1,
+      "ColumnHeader": 1,
+      "Button": 0,
+      "Point": -1,
+      "Int32": -1
+    },
+    "MaxFieldTypes": {
+      "Boolean": 3,
+      "ComboBox": 4,
+      "FlowLayoutPanel": 4,
+      "CheckBox": 5,
+      "ListView": 3,
+      "ColumnHeader": 5,
+      "Button": 4,
+      "Point": 3,
+      "Int32": 3
+    }
+  },
+  {
+    "Name": "MineralsForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -9,
+      "ListView": -9,
+      "ColumnHeader": 15,
+      "ComboBox": -7,
+      "FlowLayoutPanel": -3,
+      "TextBox": 36,
+      "Button": -7,
+      "CheckBox": -4,
+      "RadioButton": -4,
+      "Point": -9,
+      "Int32": -9
+    },
+    "MaxFieldTypes": {
+      "Boolean": 11,
+      "ListView": 11,
+      "ColumnHeader": 35,
+      "ComboBox": 13,
+      "FlowLayoutPanel": 17,
+      "TextBox": 56,
+      "Button": 13,
+      "CheckBox": 16,
+      "RadioButton": 16,
+      "Point": 11,
+      "Int32": 11
+    }
+  },
+  {
+    "Name": "SectorsForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": 1,
+      "TreeView": 1,
+      "ComboBox": 1,
+      "ListBox": 1,
+      "FlowLayoutPanel": 1,
+      "Button": 1,
+      "ListView": 1,
+      "ColumnHeader": 2,
+      "Point": 1,
+      "Int32": 1
+    },
+    "MaxFieldTypes": {
+      "Boolean": 1,
+      "TreeView": 1,
+      "ComboBox": 1,
+      "ListBox": 1,
+      "FlowLayoutPanel": 1,
+      "Button": 1,
+      "ListView": 1,
+      "ColumnHeader": 2,
+      "Point": 1,
+      "Int32": 1
+    }
+  },
+  {
+    "Name": "EventsForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -4,
+      "ListView": -4,
+      "ColumnHeader": -1,
+      "ComboBox": -3,
+      "Label": -3,
+      "TextBox": -3,
+      "Button": 4,
+      "CheckBox": -3,
+      "FlowLayoutPanel": -4,
+      "Point": -4,
+      "Int32": -4
+    },
+    "MaxFieldTypes": {
+      "Boolean": 6,
+      "ListView": 6,
+      "ColumnHeader": 9,
+      "ComboBox": 7,
+      "Label": 7,
+      "TextBox": 7,
+      "Button": 14,
+      "CheckBox": 7,
+      "FlowLayoutPanel": 6,
+      "Point": 6,
+      "Int32": 6
+    }
+  },
+  {
+    "Name": "GameDetailsForm",
+    "IsUniqueByChecksum": {
+      "chm1c7": true
+    },
+    "MinFieldTypes": {
+      "Boolean": -9,
+      "FlowLayoutPanel": -5,
+      "CheckBox": 13,
+      "Panel": 14,
+      "TextBox": 16,
+      "Label": 15,
+      "ComboBox": -7,
+      "Button": -3,
+      "Point": -9,
+      "Int32": -9
+    },
+    "MaxFieldTypes": {
+      "Boolean": 11,
+      "FlowLayoutPanel": 15,
+      "CheckBox": 33,
+      "Panel": 34,
+      "TextBox": 36,
+      "Label": 35,
+      "ComboBox": 13,
+      "Button": 17,
+      "Point": 11,
+      "Int32": 11
+    }
+  }
+]
