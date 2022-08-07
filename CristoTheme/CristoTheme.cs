@@ -32,6 +32,7 @@ namespace CristoTheme
         private static readonly Color disabledTextColor = ControlPaint.Dark(mainTextColor, 0.1f);
         private static readonly Color buttonBackgroundColor = Color.FromArgb(23, 26, 39);
         private static readonly Color planetColor = Color.FromArgb(128, 128, 128);
+        private static readonly Color planetTextColor = Color.FromArgb(238, 216, 164);
         private static readonly Color orbitColor = Color.FromArgb(128, planetColor);
         private static readonly Color enabledSpaceMasterButtonColor = Color.FromArgb(248, 231, 28);
         private static readonly Color enabledAutoTurnsButtonColor = Color.FromArgb(126, 211, 33);
@@ -123,6 +124,7 @@ namespace CristoTheme
 
             ThemeCreator.ThemeCreator.SetCometTailColor(orbitColor);
             ThemeCreator.ThemeCreator.SetPlanetColor(planetColor);
+            ThemeCreator.ThemeCreator.SetMapTextColor(planetTextColor);
 
             ThemeCreator.ThemeCreator.DrawEllipsePrefixAction((graphics, pen) =>
             {
