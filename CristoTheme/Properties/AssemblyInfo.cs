@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Solaris Theme")]
-[assembly: AssemblyDescription("Custom visual theme for Aurora game based on AuroraPatch.")]
-[assembly: AssemblyProduct("Solaris Theme")]
+[assembly: AssemblyTitle("Cristo Theme")]
+[assembly: AssemblyDescription("Custom visual theme for Aurora game based on AuroraPatch and Solaris Theme.")]
+[assembly: AssemblyProduct("Cristo Theme")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
