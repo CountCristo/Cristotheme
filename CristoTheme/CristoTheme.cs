@@ -27,13 +27,13 @@ namespace CristoTheme
         private static readonly Font buttonFont = new Font(fontFamily, 7, FontStyle.Bold);
 
         // Our new colors
-        private static readonly Color mainBackgroundColor = Color.FromArgb(12, 12, 12);
-        private static readonly Color mainTextColor = Color.FromArgb(210, 210, 210);
+        private static readonly Color mainBackgroundColor = Color.FromArgb(13, 23, 41);
+        private static readonly Color mainTextColor = Color.FromArgb(240, 240, 200);
         private static readonly Color disabledTextColor = ControlPaint.Dark(mainTextColor, 0.1f);
         private static readonly Color buttonBackgroundColor = Color.FromArgb(23, 26, 39);
-        private static readonly Color planetColor = Color.FromArgb(128, 128, 128);
+        private static readonly Color planetColor = Color.FromArgb(0, 87, 0);
         private static readonly Color planetTextColor = Color.FromArgb(238, 216, 164);
-        private static readonly Color orbitColor = Color.FromArgb(128, planetColor);
+        private static readonly Color orbitColor = Color.FromArgb(190, 255, 190);
         private static readonly Color enabledSpaceMasterButtonColor = Color.FromArgb(248, 231, 28);
         private static readonly Color enabledAutoTurnsButtonColor = Color.FromArgb(126, 211, 33);
 
