@@ -36,11 +36,11 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="AuroraPatch">
-      <HintPath>..\AuroraPatch\AuroraPatch\bin\Release\AuroraPatch.exe</HintPath>
+      <HintPath>..\Unaltered base files\AurouraPatch compiled\AuroraPatch.exe</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Lib">
-      <HintPath>..\AuroraPatch\Lib\bin\Release\Lib.dll</HintPath>
+      <HintPath>..\Unaltered base files\Lib\Lib.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -53,7 +53,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="ThemeCreator">
-      <HintPath>..\ThemeCreator\bin\Release\ThemeCreator.dll</HintPath>
+      <HintPath>..\Unaltered base files\ThemeCreator\ThemeCreator.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
@@ -63,7 +63,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="SolarisTheme.cs" />
+    <Compile Include="CristoTheme.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

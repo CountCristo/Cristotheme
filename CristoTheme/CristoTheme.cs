@@ -11,11 +11,11 @@ using HarmonyLib;
 using Lib;
 using SolarisTheme.Properties;
 
-namespace SolarisTheme
+namespace CristoTheme
 {
-    public class SolarisTheme : AuroraPatch.Patch
+    public class CristoTheme : AuroraPatch.Patch
     {
-        public override string Description => "Solaris Theme";
+        public override string Description => "Cristo Theme";
         public override IEnumerable<string> Dependencies => new[] { "ThemeCreator", "Lib" };
 
         private static Lib.Lib lib;
