@@ -22,9 +22,9 @@ Download and apply Aurora 4x 2.1.0 patch http://aurora2.pentarch.org/index.php?t
 
 Download Aurora Patch https://github.com/Aurora-Modders/AuroraPatch
 
-Download the "Patches" file from this repository
+Download this repository "code > download zip" 
 
-Copy the contense of the Patches file into your Patches file
+Copy the contense of the Patches file from the repository into your Patches file
 
 Run the game by running the "AuroraPatch" EXE file.
 
