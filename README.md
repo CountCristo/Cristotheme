@@ -15,7 +15,9 @@ And all of the above is actually applied using 01010100b's AuroraPatch: https://
 USAGE (including aurora and auroura patch install) 
 
 Download Aurora 4x 1.13 http://aurora2.pentarch.org/index.php?topic=10635.0
+
 Download and apply Aurora 4x 2.1.0 patch http://aurora2.pentarch.org/index.php?topic=13049.0
+
 Download and apply Aurora 4x 2.1.0 patch http://aurora2.pentarch.org/index.php?topic=13077.0
 
 Download Aurora Patch https://github.com/Aurora-Modders/AuroraPatch
