@@ -20,7 +20,7 @@ Download and apply Aurora 4x 2.1.0 patch http://aurora2.pentarch.org/index.php?t
 
 Download and apply Aurora 4x 2.1.1 patch http://aurora2.pentarch.org/index.php?topic=13077.0
 
-Download Aurora Patch https://github.com/Aurora-Modders/AuroraPatch
+Download Aurora Patch - follow instructions here to install it: https://github.com/Aurora-Modders/AuroraPatch
 
 Download this repository "code > download zip" 
 
