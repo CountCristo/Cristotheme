@@ -15,6 +15,7 @@ And all of the above is actually applied using 01010100b's AuroraPatch: https://
 USAGE (including aurora and auroura patch install) 
 
 Download Aurora 4x 1.13 http://aurora2.pentarch.org/index.php?topic=10635.0
+You many need to right click "open in new tab" the download link on certain versions of chrome.
 
 Download and apply Aurora 4x 2.1.0 patch http://aurora2.pentarch.org/index.php?topic=13049.0
 
