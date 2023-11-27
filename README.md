@@ -18,19 +18,16 @@ USAGE (including aurora and auroura patch install)
 1- Download Aurora 4x 1.13 http://aurora2.pentarch.org/index.php?topic=10635.0
 You many need to right click "open in new tab" the download link on certain versions of chrome.
 
-2- Download and apply Aurora 4x 2.1.0 patch http://aurora2.pentarch.org/index.php?topic=13049.0
+2- Download and apply Aurora 4x 2.2.0 patch http://aurora2.pentarch.org/index.php?topic=13338.0
 By "apply" here I mean overwrite the base aurora files with these new files.
 
-3- Download and apply Aurora 4x 2.2.0 patch http://aurora2.pentarch.org/index.php?topic=13338.0
-By "apply" here I mean overwrite the base aurora files with these new files.
+3- Download Aurora Patch - follow instructions here to install it: https://github.com/Aurora-Modders/AuroraPatch
 
-4- Download Aurora Patch - follow instructions here to install it: https://github.com/Aurora-Modders/AuroraPatch
+4- Download this repository "code > download zip" 
 
-5- Download this repository "code > download zip" 
+5- Copy the contense of the Patches file from the repository into your Patches file
 
-6- Copy the contense of the Patches file from the repository into your Patches file
-
-7- Run the game by running the "AuroraPatch" EXE file.
+6- Run the game by running the "AuroraPatch" EXE file.
 
 Enjoy! 
 
