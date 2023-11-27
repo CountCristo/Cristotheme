@@ -9,8 +9,9 @@ And all of the above is actually applied using 01010100b's AuroraPatch: https://
 
 Vast majority of credit rightly goes to those people, thank you!
 
-
-
+.
+.
+.
 
 USAGE (including aurora and auroura patch install) 
 
@@ -32,3 +33,8 @@ By "apply" here I mean overwrite the base aurora files with these new files.
 7- Run the game by running the "AuroraPatch" EXE file.
 
 Enjoy! 
+
+
+
+NOTE  you may not be able to access the forum on your browser, the website security certificate is expired, this doens't really matter (unless you use login details on there that you use elsewhere DON'T DO THAT EVER YOU SPANNER
+In order to load the page remove the "s" from the "https" in the URL - if your browser (IE chrome) doesn't let you do that then use firefox instead. 
