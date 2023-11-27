@@ -9,9 +9,9 @@ And all of the above is actually applied using 01010100b's AuroraPatch: https://
 
 Vast majority of credit rightly goes to those people, thank you!
 
-.
-.
-.
+-
+-
+-
 
 USAGE (including aurora and auroura patch install) 
 
