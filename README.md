@@ -7,7 +7,7 @@ Both of these are built on the back of twitce2double's ThemeCreator https://gith
 
 And all of the above is actually applied using 01010100b's AuroraPatch: https://github.com/Aurora-Modders/AuroraPatch
 
-
+Vast majority of credit rightly goes to those people, thank you!
 
 
 
@@ -20,7 +20,7 @@ You many need to right click "open in new tab" the download link on certain vers
 2- Download and apply Aurora 4x 2.1.0 patch http://aurora2.pentarch.org/index.php?topic=13049.0
 By "apply" here I mean overwrite the base aurora files with these new files.
 
-3- Download and apply Aurora 4x 2.1.1 patch http://aurora2.pentarch.org/index.php?topic=13077.0
+3- Download and apply Aurora 4x 2.2.0 patch http://aurora2.pentarch.org/index.php?topic=13338.0
 By "apply" here I mean overwrite the base aurora files with these new files.
 
 4- Download Aurora Patch - follow instructions here to install it: https://github.com/Aurora-Modders/AuroraPatch
