@@ -37,3 +37,4 @@ NOTE  you may not be able to access the forum on your browser, the website secur
 In order to load the page remove the "s" from the "https" in the URL - if your browser (IE chrome) doesn't let you do that then use firefox instead. 
 
 NOTE 2 - don't ever report bugs on the forum while using this (or any other mod). 
+NOTE 3 - you must use a . decimel seperator for Aurora to work. 
