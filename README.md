@@ -18,16 +18,19 @@ USAGE (including aurora and auroura patch install)
 1- Download Aurora 4x 1.13 http://aurora2.pentarch.org/index.php?topic=10635.0
 You many need to right click "open in new tab" the download link on certain versions of chrome.
 
-2- Download and apply Aurora 4x 2.4.0 patch https://aurora2.pentarch.org/index.php?topic=13402.0
+2- Download and apply Aurora 4x 2.5.0 patch https://aurora2.pentarch.org/index.php?topic=13418.0
 By "apply" here I mean overwrite the base aurora files with these new files.
 
-3- Download Aurora Patch - follow instructions here to install it: https://github.com/Aurora-Modders/AuroraPatch
+3- Download and apply Aurora 4x 2.5.1 patch https://aurora2.pentarch.org/index.php?topic=13462.0
+By "apply" here I mean overwrite the base aurora files with these new files.
 
-4- Download this repository "code > download zip" 
+4- Download Aurora Patch - then follow instructions here to install it: https://github.com/Aurora-Modders/AuroraPatch
 
-5- Copy the contense of the Patches file from the repository into your Patches file
+5- Download this repository "code > download zip" 
 
-6- Run the game by running the "AuroraPatch" EXE file.
+6- Copy the contense of the Patches file from the repository code into your Patches file (the one that should already exist after step 4)
+
+7- Run the game by running the "AuroraPatch" EXE file - not the normal "Aurora" EXE
 
 Enjoy! 
 
@@ -37,4 +40,5 @@ NOTE  you may not be able to access the forum on your browser, the website secur
 In order to load the page remove the "s" from the "https" in the URL - if your browser (IE chrome) doesn't let you do that then use firefox instead. 
 
 NOTE 2 - don't ever report bugs on the forum while using this (or any other mod). 
-NOTE 3 - you must use a . decimel seperator for Aurora to work. 
+NOTE 3 - you must use a "." decimel seperator for Aurora to work - not a "," as is commen in some countries 
+NOTE 4 - overwriting the files usually works, if you want to be more cautious it's recomended that instead you delete the files that are to be overwritten and then bring in the new verseions. 
