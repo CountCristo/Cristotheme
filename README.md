@@ -36,7 +36,7 @@ Enjoy!
 
 
 
-NOTE  you may not be able to access the forum on your browser, the website security certificate is expired, this doens't really matter (unless you use login details on there that you use elsewhere DON'T DO THAT EVER YOU SPANNER
+NOTE  you may not be able to access the forum on your browser, the website security certificate is expired, this doens't really matter (unless you use login details on there that you use elsewhere DON'T DO THAT EVER YOU SPANNER)
 In order to load the page remove the "s" from the "https" in the URL - if your browser (IE chrome) doesn't let you do that then use firefox instead. 
 
 NOTE 2 - don't ever report bugs on the forum while using this (or any other mod). 
