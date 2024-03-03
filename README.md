@@ -28,7 +28,7 @@ By "apply" here I mean overwrite the base aurora files with these new files.
 
 5- Download this repository "code > download zip" 
 
-6- Copy the contense of the Patches file from the repository code into your Patches file (the one that should already exist after step 4)
+6- Copy the contents of the Patches file from the repository code into your Patches file (the one that should already exist after step 4)
 
 7- Run the game by running the "AuroraPatch" EXE file - not the normal "Aurora" EXE
 
