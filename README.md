@@ -32,7 +32,7 @@ Overwrite the bases aroura with the contense of this zip just as above.
 
 5- Download this repository "code > download zip" 
 
-6- Copy the contents of the Patches file from the repository code into your Patches file (the one that should already exist after step 4 - if it doesn't read step 4 carefully and try again)
+6- Copy the contents of the Patches folder from the repository code into your Patches file (the one that should already exist after step 4 - if it doesn't read step 4 carefully and try again)
 
 7- Run the game by running the "AuroraPatch" EXE file - not the normal "Aurora" EXE
 
