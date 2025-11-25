@@ -8,10 +8,10 @@ A variant on the existing SolarisTheme and DeepBlueTheme Aurora 4x Mods
 This step gives you a compressed file, create a folder (I call mine "Aurora - [ENTER YOUR INSTALLED VERSION]") and extract the contents of the downloaded file into there. <br>
 This file is now your Aurora installation directory. Unless specified otherwise, the following instructions that mention 'overwriting base' or similar actions refer to placing the downloaded files into this directory.
 
-1. Download and apply [Aurora 4x 2.5.0](https://aurora2.pentarch.org/index.php?topic=13418.0) patch <br>
+1. Download and apply [Aurora 4x 2.7.0](https://aurora2.pentarch.org/index.php?topic=13866.0) patch <br>
 By "apply" here I mean overwriting the base aurora files with these new files.
 
-1. Download and apply [Aurora 4x 2.5.1](https://aurora2.pentarch.org/index.php?topic=13462.0) patch. Ensure it overwrites the existing files from the 2.5.0 patch as well.
+1. Download and apply [Aurora 4x 2.7.1](https://aurora2.pentarch.org/index.php?topic=13883.0) patch. Ensure it overwrites the existing files from the 2.5.0 patch as well.
 
 2. Download Aurora Patch from it's [release](https://github.com/Aurora-Modders/AuroraPatch/releases) page. <br>
 Extract the files and apply them on your Aurora game directory.
