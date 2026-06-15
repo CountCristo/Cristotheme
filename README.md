@@ -8,17 +8,23 @@ A variant on the existing SolarisTheme and DeepBlueTheme Aurora 4x Mods
 This step gives you a compressed file, create a folder (I call mine "Aurora - [ENTER YOUR INSTALLED VERSION]") and extract the contents of the downloaded file into there. <br>
 This file is now your Aurora installation directory. Unless specified otherwise, the following instructions that mention 'overwriting base' or similar actions refer to placing the downloaded files into this directory and allowing your pc to override older files.
 
-1.1. Check if the full install page is up to date [Here](https://aurora4x.com/t/latest-version-patch-file/16)  <br>
+2. Check if the full install page is up to date [Here](https://aurora4x.com/t/latest-version-patch-file/16)  <br>
 If the version number here matches the one you encounted in step 1 no action is needed. If it doesn't then download the patch and extract the contents of the downloaded file into your 
-By "apply" here I mean overwriting the base aurora files with these new files.
+By "apply" here I mean overwriting the base aurora files with these new files. This is also the step you will need to take if you want to update your game, note that the game versions are formatted X.Y.Z if Z doesn't match you can generally update safely (though always backup files) if X or Y don't match don't expect old saves to work. 
 
-2. Download Aurora Patch from it's [release](https://github.com/Aurora-Modders/AuroraPatch/releases) page. <br>
+3. Download Aurora Patch from it's [release](https://github.com/Aurora-Modders/AuroraPatch/releases) page. <br>
 Extract the files and put them in your Aurora game directory.
 
-3. Download this repository "code > download zip" Copy the contents of the downloaded zip folder from the repository code into the game directory of Aurora.
-This will give you some other files that don't do anything, as well as my colours prefrances file that you can import in game to make your events coloured as I like them to be. 
+<img width="735" height="482" alt="image" src="https://github.com/user-attachments/assets/560755d0-990a-4b90-981d-bec103a4ca66" />
 
-4. Run the game by running the "**AuroraPatch**" EXE file - not the normal "Aurora" EXE. <br>
+
+4. Download this repository "code > download zip" Copy the contents of the downloaded zip folder from the repository code into the game directory of Aurora.
+This will give you some other files that don't do anything, as well as my colours prefrances file that you can import in game to make your events coloured as I like them to be.
+
+<img width="439" height="383" alt="image" src="https://github.com/user-attachments/assets/bf041ba3-59cf-4f93-8963-1a88aec69f13" />
+
+
+5. Run the game by running the "**AuroraPatch**" EXE file - not the normal "Aurora" EXE. <br>
 Be sure to select the Cristotheme.
 
 
